@@ -1,2 +1,2 @@
-# freedom
+# simple-quote-page
 Site freedom
